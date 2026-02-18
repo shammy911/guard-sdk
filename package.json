@@ -1,5 +1,5 @@
 {
-  "name": "@guard-api/sdk",
+  "name": "@shammy911/guard-sdk",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.cjs",
