@@ -1,6 +1,6 @@
 {
   "name": "@shammy911/guard-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Guard API client SDK for rate limiting & abuse protection",
   "keywords": [
     "guard",
