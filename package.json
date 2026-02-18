@@ -1,7 +1,15 @@
 {
   "name": "@shammy911/guard-sdk",
   "version": "1.0.0",
-  "description": "",
+  "description": "Guard API client SDK for rate limiting & abuse protection",
+  "keywords": [
+    "guard",
+    "rate-limit",
+    "security",
+    "abuse",
+    "ddos",
+    "sdk"
+  ],
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -26,7 +34,6 @@
     "type": "git",
     "url": "git+https://github.com/shammy911/guard-sdk.git"
   },
-  "keywords": [],
   "author": "",
   "license": "MIT",
   "type": "module",
